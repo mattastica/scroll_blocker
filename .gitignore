@@ -1,0 +1,13 @@
+# Rust
+/target/
+
+# macOS
+.DS_Store
+
+# Editor/IDE
+.idea/
+.vscode/
+*.iml
+
+# App bundle output
+/Scroll Blocker.app/

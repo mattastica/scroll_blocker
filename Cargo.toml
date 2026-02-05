@@ -1,0 +1,11 @@
+[package]
+name = "scroll_blocker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cocoa = "0.25"
+core-graphics = "0.25"
+core-foundation = "0.10"
+objc = "0.2"
+
