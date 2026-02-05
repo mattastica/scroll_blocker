@@ -4,7 +4,7 @@ A tiny macOS menu bar app that **blocks all scroll wheel events**. It exists so 
 
 ![Menu bar icon](docs/menu.png)
 
-My generals.io username is *orbiter*. 🙃
+My generals.io username is [**orbiter*](https://generals.io/profiles/orbiter). 🙃
 
 ## What it does
 
