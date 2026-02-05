@@ -4,6 +4,8 @@ A tiny macOS menu bar app that **blocks all scroll wheel events**. It exists so 
 
 ![Menu bar icon](docs/menu.png)
 
+My generals.io username is *orbiter*. 🙃
+
 ## What it does
 
 - Blocks all scroll wheel events (mouse wheel / trackpad scroll) on macOS.
