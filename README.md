@@ -1,6 +1,6 @@
 # Scroll Blocker
 
-A tiny macOS menu bar app that **blocks all scroll wheel events**. It exists because I play generals.io with a mouse, and accidental scrolling can ruin a match. Scroll Blocker sits quietly in the menu bar and prevents scroll input system‑wide while it runs.
+A tiny macOS menu bar app that **blocks all scroll wheel events**. It exists so that when I play [generals.io](generals.io) with a mouse, accidental scrolling does not ruin a match. Scroll Blocker sits quietly in the menu bar and prevents scroll input system‑wide while it runs.
 
 ![Menu bar icon](docs/menu.png)
 
